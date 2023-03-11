@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DIO",
+            "request": "launch",
+            "mainClass": "app.DIO",
+            "projectName": "desafios-de-codigo-basico"
+        }
+    ]
+}

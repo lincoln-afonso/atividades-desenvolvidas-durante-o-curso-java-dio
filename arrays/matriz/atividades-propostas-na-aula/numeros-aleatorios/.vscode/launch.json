@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - NumerosAleatorios",
+            "request": "launch",
+            "mainClass": "numerosaleatorios.NumerosAleatorios",
+            "projectName": "numeros-aleatorios"
+        }
+    ]
+}

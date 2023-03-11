@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - OrdemInversa",
+            "request": "launch",
+            "mainClass": "ordeminversa.OrdemInversa",
+            "projectName": "ordem-inversa"
+        }
+    ]
+}

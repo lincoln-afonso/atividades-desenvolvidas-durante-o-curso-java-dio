@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ParEImpar",
+            "request": "launch",
+            "mainClass": "pareimpar.ParEImpar",
+            "projectName": "par-e-impar"
+        }
+    ]
+}

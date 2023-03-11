@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Fatorial",
+            "request": "launch",
+            "mainClass": "fatorial.Fatorial",
+            "projectName": "fatorial"
+        }
+    ]
+}

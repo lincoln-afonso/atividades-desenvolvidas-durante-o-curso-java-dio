@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CertoErradoTalvez",
+            "request": "launch",
+            "mainClass": "certoerradotalvez.CertoErradoTalvez",
+            "projectName": "certo-errado-talvez"
+        }
+    ]
+}

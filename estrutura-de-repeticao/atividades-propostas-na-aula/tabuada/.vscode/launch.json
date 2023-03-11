@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Tabuada",
+            "request": "launch",
+            "mainClass": "tabuada.Tabuada",
+            "projectName": "tabuada"
+        }
+    ]
+}

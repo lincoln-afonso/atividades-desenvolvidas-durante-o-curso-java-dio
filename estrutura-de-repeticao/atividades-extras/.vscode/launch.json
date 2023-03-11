@@ -1,0 +1,74 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Exercicio16",
+            "request": "launch",
+            "mainClass": "atividadesextras.Exercicio16",
+            "projectName": "resolucao-atividades-extras"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Exercicio10",
+            "request": "launch",
+            "mainClass": "atividadesextras.Exercicio10",
+            "projectName": "resolucao-atividades-extras"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Exercicio9",
+            "request": "launch",
+            "mainClass": "atividadesextras.Exercicio9",
+            "projectName": "resolucao-atividades-extras"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Exercicio8",
+            "request": "launch",
+            "mainClass": "atividadesextras.Exercicio8",
+            "projectName": "resolucao-atividades-extras"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Exercicio7",
+            "request": "launch",
+            "mainClass": "atividadesextras.Exercicio7",
+            "projectName": "resolucao-atividades-extras"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Exercicio6",
+            "request": "launch",
+            "mainClass": "atividadesextras.Exercicio6",
+            "projectName": "resolucao-atividades-extras"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Exercicio5",
+            "request": "launch",
+            "mainClass": "atividadesextras.Exercicio5",
+            "projectName": "resolucao-atividades-extras"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Exercicio4",
+            "request": "launch",
+            "mainClass": "atividadesextras.Exercicio4",
+            "projectName": "resolucao-atividades-extras"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Exercicio3",
+            "request": "launch",
+            "mainClass": "atividadesextras.Exercicio3",
+            "projectName": "resolucao-atividades-extras"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Exercicio2",
+            "request": "launch",
+            "mainClass": "atividadesextras.Exercicio2",
+            "projectName": "resolucao-atividades-extras"
+        }
+    ]
+}

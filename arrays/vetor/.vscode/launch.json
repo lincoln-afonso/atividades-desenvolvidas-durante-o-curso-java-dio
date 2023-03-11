@@ -1,0 +1,16 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Exercicio22",
+            "request": "launch",
+            "mainClass": "vetor.Exercicio22"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Exercicio20",
+            "request": "launch",
+            "mainClass": "vetor.Exercicio20"
+        }
+    ]
+}

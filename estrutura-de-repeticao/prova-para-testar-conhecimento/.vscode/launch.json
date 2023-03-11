@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Questao1",
+            "request": "launch",
+            "mainClass": "prova.Questao1",
+            "projectName": "prova-para-testar-conhecimento"
+        }
+    ]
+}
