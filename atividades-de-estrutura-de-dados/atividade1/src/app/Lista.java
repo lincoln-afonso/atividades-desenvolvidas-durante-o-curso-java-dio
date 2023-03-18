@@ -136,19 +136,6 @@ public class Lista {
     }
 
     /**
-     * <h1>public void remove(String )</h1> </br>
-     * </br>
-     * Remove um elemento de uma lista como uma determinada informação.
-     * 
-     * @param informacao
-     */
-    public void remove(String informacao) {
-        // No noAuxiliar = this.getPrimeiroNo();
-        // No noAnterior = noAuxiliar;
-
-    }
-
-    /**
      * <h1>public void add(Object , int)</h1></br>
      * Insere um elemento em uma lista em uma dada posição.
      * 

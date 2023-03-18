@@ -23,14 +23,14 @@ public class App {
     public static void main(String[] args) throws Exception {
         Lista lista = new Lista();
 
-        lista.remove(0);
         try {
             lista.add(5, 0, "Lincoln");
             lista.add(8, 0, "Afonso");
             lista.add(4, 1, "Maria");
 
-            System.out.println(lista.getNo(8));
-            System.out.println(lista.getNo("Maria"));
+            lista.ordena();
+            // System.out.println(lista.getNo(8));
+            // System.out.println(lista.getNo("Maria"));
 
         } catch (Exception e) {
             System.out.println(e.getMessage());
